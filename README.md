@@ -8,6 +8,6 @@ The CSS sheet was updated with all of the new tags that replaced the classes, an
 
 There are comments throughout both documents detailing changes made.
 
-![](/screenshotHoriseon.png)
-![](/screenshotHoriseon2.png)
+![](/readme%20screenshots/screenshotHoriseon.png)
+![](/readme%20screenshots/screenshotHoriseon2.png)
  

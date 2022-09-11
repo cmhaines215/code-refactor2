@@ -1,5 +1,6 @@
 # Horizon Code Refactoring
 
+##Summary 
 This page was refactored to optimize the site for search engines. 
 
 The HTML page is now structured completely with semantic HTML elements, and all images now contain alt attributes, and many elements marked with classes were replaced with just the semantic HTML tag for that given element. All of the bookmarked links are functioning properly, and the page's headings are now in sequential order.
@@ -8,7 +9,9 @@ The CSS sheet was updated with all of the new tags that replaced the classes, an
 
 There are comments throughout both documents detailing changes made.
 
+##Screenshots
 ![](/readme%20screenshots/screenshotHoriseon.png)
 ![](/readme%20screenshots/screenshotHoriseon2.png)
  
+##Deployed page link
 https://cmhaines215.github.io/code-refactor2/

@@ -85,24 +85,24 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* condensed aside elements with same properties using article tag */
-article {
+/* condensed aside elements with same properties using benefits as a class */
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /* condensed selectors with same properties */
-article h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* condensed selectors with same properties */
-article img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* condensed main elements with same properties using section tag */
-section {
+/* condensed main elements with same properties using class of services */
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ section {
     color: #ffffff;
 }
 
-section img {
+.services img {
     max-height: 200px;
 }
 
-section h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
